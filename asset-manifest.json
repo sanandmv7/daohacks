@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/daohacks/static/css/main.946e4348.css",
+    "main.js": "/daohacks/static/js/main.3bc32943.js",
+    "index.html": "/daohacks/index.html",
+    "main.946e4348.css.map": "/daohacks/static/css/main.946e4348.css.map",
+    "main.3bc32943.js.map": "/daohacks/static/js/main.3bc32943.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.946e4348.css",
+    "static/js/main.3bc32943.js"
+  ]
+}
